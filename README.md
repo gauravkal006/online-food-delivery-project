@@ -354,3 +354,4 @@ The Customer Storefront will be accessible at `http://localhost:5174` (or next a
 
 This project is licensed under the terms of the [MIT License](LICENSE).
 You are free to use, modify, and distribute this software with attribution.
+
